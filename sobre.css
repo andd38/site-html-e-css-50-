@@ -60,7 +60,8 @@ main{
    font-size: 25px;
 }
 div.text{
-   
+    margin: 20px;
+    margin-bottom: 180px;
     height: 20px;
     display: flex;
     align-self: center;

@@ -11,21 +11,33 @@ header{
     display: flex;
     align-items: center;
     flex-direction: column;
-    
+   
 }
 a{
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
+
 main{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    
 }
 div{
     margin: 15px;
 }
 .text{
-    margin-bottom: 150px;
+    margin-bottom: 250px;
+}
+.tech{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+span{
+    text-align: center;
+    margin: 15px;
 }
