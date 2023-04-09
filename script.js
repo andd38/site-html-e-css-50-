@@ -22,3 +22,7 @@ function acao(){
     home.style.transform = "translateY(15px)";
    }
    
+   $("#gmail").click(function(){
+    $("#msg").hide()
+   })
+  
