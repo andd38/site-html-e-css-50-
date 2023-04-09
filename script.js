@@ -21,3 +21,4 @@ function acao(){
     var home = document.getElementById("home");
     home.style.transform = "translateY(15px)";
    }
+   
